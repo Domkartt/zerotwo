@@ -1,0 +1,33 @@
+{
+  "name": "Test",
+  "version": "2.0.0",
+  "description": "Test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "app": "^0.1.0",
+    "ascii-art": "^1.5.1",
+    "booru": "^2.0.3",
+    "canvas": "^2.5.0",
+    "discord-embed-maker": "^3.0.8",
+    "discord.js": "^11.5.1",
+    "express": "^4.17.1",
+    "ffmpeg-binaries": "^4.0.0",
+    "google-translate-api": "^2.3.0",
+    "hastebin-gen": "^2.0.5",
+    "http": "0.0.0",
+    "isgd": "^1.1.3",
+    "ms": "^2.1.2",
+    "node-fetch": "^2.6.0",
+    "node-opus": "^0.3.2",
+    "node-superfetch": "^0.1.9",
+    "opusscript": "0.0.6",
+    "parse-ms": "^2.1.0",
+    "quick.db": "^7.0.0-b22",
+    "request": "^2.88.0",
+    "snekfetch": "^4.0.4",
+    "ytdl-core": "^0.29.5"
+  }
+}
