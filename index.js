@@ -147,4 +147,4 @@ member.guild.channels.get('702155034929922152').send(lewdembed);
   
 });
 
-client.login(token);
+client.login(process.env.token);
